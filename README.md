@@ -1,4 +1,4 @@
-# django-notekeeper
+# notepad
 A pretty easy django notes app. Have a note save it!
 
 ## Features
@@ -15,23 +15,23 @@ A pretty easy django notes app. Have a note save it!
 - Clone the repository
 
 ```bash
-git clone https://github.com/pWoLiAn/django-notekeeper.git
+git clone https://github.com/pWoLiAn/notepad.git
 ```
 
 - Install Dependencies
 
 ```bash
-cd django-notekeeper
+cd notepad
 pip3 install -r requirements.txt
 ```
 
-- Go to `django-notekeeper/notekeeper/notekeeper/` Edit your `settings.py` file and enter your secret key. You can generate a key using the link - [Django Key](https://djecrety.ir/)
+- Go to `notepad/notekeeper/notekeeper/` Edit your `settings.py` file and enter your secret key. You can generate a key using the link - [Django Key](https://djecrety.ir/)
 
 ```
 SECRET_KEY=<your_secret_key>
 ```
 
-- cd into notekeeper folder
+- cd into notepad folder
 
 ```bash
 cd notekeeper
