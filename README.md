@@ -31,7 +31,7 @@ pip3 install -r requirements.txt
 SECRET_KEY=<your_secret_key>
 ```
 
-- cd into notepad folder
+- cd into notekeeper folder
 
 ```bash
 cd notekeeper
